@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(255, 255, 224);
+    font-size: 10pt;
+    margin-left: 20;
+    margin-right: 20;
+    margin-bottom: 3;
+}
+
+h4 {
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(204,0,0);
+}
+
+.all{
+    padding: 0px 0px 0px 12px;
+}
+
+.Itxt {
+    box-sizing: border-box;
+    padding: 1px 12px 0px 0px;
+    margin: 0 auto;
+}
+
+.boxH4ANTON {
+    box-sizing: border-box;
+    padding: 1px 0px 0px 0px;
+    margin: 0 auto;
+}
+
+.txttrue {
+    font-style: italic;
+}
+
+.txtboa {
+    font-style: italic;
+}
+
+.txtfrighten {
+    font-style: italic;
+}
+
+.txtthat {
+    font-style: italic;
+}
+
+.txtif {
+    font-style: italic;
+}
+
+.txtwhat {
+    font-style: italic;
+}
+
+.txtdraw {
+    font-style: italic;
+}
